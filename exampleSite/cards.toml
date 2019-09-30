@@ -1,16 +1,12 @@
-baseURL = "https://dream-plus-posts.netlify.com"
-title = "UtkarshVerma's Blog"
+baseURL = "https://dream-plus-cards.netlify.com"
+title = "UtkarshVerma's Site"
+theme = "dream-plus"
+themesDir = "../.."		#Don't use this, only for exampleSite
 paginate = 4
 enableRobotsTXT = true
-disqusShortname = "dream-plus"
 
 #Skip building these files
-ignoreFiles = ["content/404.md", "content/about.md", "content/cards/\\.*"]
-
-#Syntax highlighting
-pygmentsCodeFences = true
-pygmentsUseClasses = true
-pygmentsOptions = "linenos=table"
+ignoreFiles = ["content/404.md", "content/about.md", "content/posts/\\.*"]
 
 #Enable Hugo Emoji Conversion
 enableEmoji=true
@@ -20,7 +16,7 @@ enableEmoji=true
 	favicon = "/img/defaultFav.ico"
 
 	#Set whether you're hosting "cards" or "post"
-	contentType = "posts"
+	contentType = "cards"
 
 	siteStartYear = 2018
 
@@ -39,14 +35,6 @@ enableEmoji=true
 		shareCard = true
 		#Use custom CSS
 		customCSS = ["https://cdn.rawgit.com/UtkarshVerma/hugo-dream-plus/ae11561d/exampleSite/static/css/highlight.css"]
-
-	#Tags settings
-	[params.tags]
-		enabled = true
-
-	#Categories settings
-	[params.categories]
-		enabled = true
 
 [social]
 	email = "utkarshverma@pm.me"
