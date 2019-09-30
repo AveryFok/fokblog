@@ -27,7 +27,7 @@ enableEmoji=true
 	[params.author]
 		name = "AveryHuo"
 		description = "Just a random blog for random stuff, mostly tech-related."
-		avatar = "https://https://github.com/AveryFok/AveryFok.github.io/tree/master/img/my.jpeg"
+		avatar = "/img/my.jpeg"
 		motto = "A kind programmer, A lover to the world~"
 
 	[params.features]
