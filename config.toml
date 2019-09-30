@@ -27,8 +27,8 @@ enableEmoji=true
 	[params.author]
 		name = "AveryHuo"
 		description = "Just a random blog for random stuff, mostly tech-related."
-		avatar = "https://raw.githubusercontent.com/UtkarshVerma/utkarshverma.github.io/source/static/images/avatar.jpg"
-		motto = "A keen maker, programmer and an Instructables author."
+		avatar = "https://github.com/AveryFok/AveryFok.github.io/img/my.jpeg"
+		motto = "A kind programmer, A lover to the world~"
 
 	[params.features]
 		#Enable Twitter Emoji
@@ -49,8 +49,8 @@ enableEmoji=true
 		enabled = true
 
 [social]
-	email = "utkarshverma@pm.me"
-	github = "UtkarshVerma"
-	stackoverflow = "9271608/utkarsh-verma"
-	medium = "UtkarshVerma_"
-	twitter = "UtkarshVerma_"
+	email = "jackhamsir@sina.com"
+	github = "AveryFok"
+	#stackoverflow = "9271608/utkarsh-verma"
+	#medium = "UtkarshVerma_"
+	#twitter = "UtkarshVerma_"
