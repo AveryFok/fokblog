@@ -1,8 +1,8 @@
 baseURL = "https://dream-plus-posts.netlify.com"
-title = "UtkarshVerma's Blog"
+title = "Avery's Blog"
 paginate = 4
 enableRobotsTXT = true
-disqusShortname = "dream-plus"
+disqusShortname = ""
 
 #Skip building these files
 ignoreFiles = ["content/404.md", "content/about.md", "content/cards/\\.*"]
@@ -25,7 +25,7 @@ enableEmoji=true
 	siteStartYear = 2018
 
 	[params.author]
-		name = "Utkarsh Verma"
+		name = "AveryHuo"
 		description = "Just a random blog for random stuff, mostly tech-related."
 		avatar = "https://raw.githubusercontent.com/UtkarshVerma/utkarshverma.github.io/source/static/images/avatar.jpg"
 		motto = "A keen maker, programmer and an Instructables author."
