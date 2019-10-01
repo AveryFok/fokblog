@@ -28,7 +28,7 @@ enableEmoji=true
 		name = "AveryHuo"
 		description = "Just a random blog for random stuff, mostly tech-related."
 		avatar = "/img/my.jpeg"
-		motto = "A kind programmer, A lover to the world~"
+		motto = "A kind programmer"
 
 	[params.features]
 		#Enable Twitter Emoji
