@@ -1,6 +1,8 @@
 ---
-title: "2019NationalDay"
+title: "2019国庆节"
 date: 2019-10-01T17:15:40+08:00
+tags:
+- 日记
 draft: false
 categories:
 - diary
